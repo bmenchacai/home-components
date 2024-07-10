@@ -1,15 +1,16 @@
 <template>
-  <Temp />
-  <Shuffle />
 
-  {{ msg }}
-
+  <!-- {{ msg }} -->
+  <!-- <Practice/> -->
+  <!-- <Tooltip/> -->
+  <!-- <Test/> -->
+<h1>Hola</h1>
 </template>
 
 <script setup>
 import { ref } from 'vue';
-import Temp from './Temp.vue';
-import Shuffle from './Shuffle.vue';
+import Test from './Test.vue';
+import Tooltip from './Tooltip.vue';
 
 defineProps({
   msg: String,

@@ -4,7 +4,7 @@ import Main from './components/Main.vue'
 
 <template>
 
-  <Main msg="Dokken Components" />
+  <Main msg="Vue" />
 
 </template>
 
