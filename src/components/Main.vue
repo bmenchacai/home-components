@@ -4,7 +4,7 @@
   <!-- <Practice/> -->
   <!-- <Tooltip/> -->
   <!-- <Test/> -->
-<h1>Hola</h1>
+<h1>Bder</h1>
 </template>
 
 <script setup>
